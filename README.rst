@@ -1,10 +1,12 @@
-# MRHS Robotics
+MRHS Robotics
+#############
 
 Heya, welcome to robotics!
 
-# Calendar
+Calendar
+########
 
 || Week || Goals ||
 | 1 | Team Building |
 | 2 | Assemble Base |
-| 3 | Program |
+ 3 | Program |
