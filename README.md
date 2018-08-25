@@ -4,8 +4,11 @@ MRHS Robotics is a competetive robotics team that participates in the [FIRST Tec
 
 Want to know more about FTC?  Check [this](https://youtu.be/TLEvZgHWnrk) out!
 
-![Team 4284](images/4284_connect_award.jpg){:height="200px"}
+<img src="images/4284_connect_award.jpg" alt="Team 4284" height"200">
+
+## HOWTOs
+
+ 0. [How to Use Git](howtos/howto_git.md)
+ 0. How to Milk a Coconut
 
 
-
-<img src="images/4284_connect_award.jpg" alt="Team 4284" height="200">
