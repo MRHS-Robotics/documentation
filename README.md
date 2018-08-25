@@ -6,9 +6,3 @@ Want to know more about FTC?  Check [this](https://youtu.be/TLEvZgHWnrk) out!
 
 <img src="images/4284_connect_award.jpg" alt="Team 4284" height"200">
 
-
-
-## HOWTOs
-
-0. [How to Use Git](howtos/howto_git.md)
-0. How to Milk a Coconut
