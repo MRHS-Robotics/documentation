@@ -4,5 +4,5 @@ MRHS Robotics is a competetive robotics team that participates in the [FIRST Tec
 
 Want to know more about FTC?  Check [this](https://youtu.be/TLEvZgHWnrk) out!
 
-[![What is FTC?](https://img.youtube.com/vi/https://youtu.be/TLEvZgHWnrk/0.jpg)](https://www.youtube.com/watch?v=TLEvZgHWnrk)
+[![What is FTC?](https://img.youtube.com/vi/TLEvZgHWnrk/0.jpg)](https://www.youtube.com/watch?v=TLEvZgHWnrk)
 
