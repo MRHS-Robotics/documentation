@@ -5,9 +5,12 @@ MRHS Robotics is a competetive robotics team that participates in the [FIRST Tec
 Want to know more about FTC?  Check out [this video](https://youtu.be/TLEvZgHWnrk)!
 
 ## Our Teams
+
 <img src="images/4284_connect_award.jpg" alt="Team 4284" height="200">
-* [ButterFly Effect (4284)](teams/4284.md)
-* [7795](teams/7795)
+
+### [The Butterfly Effect (4284)](teams/4284.md)
+
+### [TBD (7795)](teams/7795.md)
 
 Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and a team member will reach out to you.
 
@@ -15,6 +18,7 @@ Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and 
 
 * [Calendar (2018-2019)](resources/calendar.md)
 * [Group Discussion Forum](resources/group.md)
+* ["Rover Ruckus" Game (2018-2019)](resources/rr_game.md)
 * [Photo Album](resources/photos.md)
 
 ## HOWTOs
@@ -22,5 +26,5 @@ Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and 
 0. [How to Update this Page](howtos/howto_contribute.md)
 
 ## Outreach
-* --------
+* ``[coming soon]``
 
