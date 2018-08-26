@@ -175,3 +175,6 @@ in the same file to which someone else has also been making changes.  To resolve
 help page](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/) or talk to a team leader
 for help, before attempting to push your own local changes to the GitHub repository.
 
+   If no error is indicated, then re-try pushing your local changes up to the GitHub repository and you should find that
+they are no longer rejected.
+
