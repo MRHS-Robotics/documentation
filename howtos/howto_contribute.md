@@ -1,5 +1,7 @@
 # How to Contribute
 
+[TOC]
+
 This site is hosted in GitHub Pages and redirected from our team 
 domain at [http://mrhsrobotics.com](http://mrhsrobotics.com).  The source material for this site is managed in our 
 [GitHub repository](https://github.com/MRHS-Robotics/mrhs-robotics).   
@@ -52,7 +54,7 @@ the GitHub repository to your own computer.  Follow these steps to clone the rep
    cd mrhs-robotics
    ```
    
-5. Verify the clone worked by listing the contents of ``mrhs-robotics``\
+5. Verify the clone worked by listing the contents of ``mrhs-robotics``
 
    ```
    ls -1
