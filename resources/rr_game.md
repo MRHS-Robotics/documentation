@@ -6,9 +6,12 @@ website.  Here are some useful links to quickly find what you're looking for.
 <center>
 <a href="https://youtu.be/EdhFVOQlbrk">
     <img src="../images/FIRST-RoverRuckus-350.png" alt="Team 4284" align="center"/>
-</a>
+<br/>
 Click to view Rover Ruckus teaseri video!
+</a>
 </center>
+
+-----
 
 * [Main Game Page](https://www.firstinspires.org/robotics/ftc/game-and-season)
 * [Game Manual, Part
