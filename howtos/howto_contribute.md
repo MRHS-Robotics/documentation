@@ -74,10 +74,18 @@ file named ``README.md``.  This is a text file that contains the content of the 
 text editor and have a look.  At the same time, try also opening the [main page](http://mrhsrobotics.com) in your 
 browser, and observe the relationship between how the text is represented in the ``README.md`` and how it eventually
 ends up looking in the browser.
+
+In the ``README.md``, you should see plain text like this:
+
+<img src="../images/markdown_source.png" alt="markdown source" height="100">
+
+In the browser, you should see that same text content, but rendered according to the site themes:
+
+<img src="../images/markdown_rendered.png" alt="markdown source" height="100">
+
   
 What you are looking at in the ``README.md`` file is called "markdown".  This is a simple shorthand for entering 
 plain text along with subtle indications as to how that text should be rendered in the browser.  As you can see, 
 putting a ``#`` at the beginning of a line, followed by some text, will result in that text being displayed as a 
 section header in your browser.  
 
-<img src="../images/markdown_source.png" alt="markdown source" height="100">
