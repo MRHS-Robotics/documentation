@@ -8,7 +8,9 @@ Want to know more about FTC?  Check out [this video](https://youtu.be/TLEvZgHWnr
 
 <img src="images/4284_connect_award.jpg" alt="Team 4284" height="200">
 
+## Team Resources
 
+* [Calendar (2018-2019)](resources/calendar.md)
 
 ## HOWTOs
 

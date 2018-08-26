@@ -1,16 +1,5 @@
-# built application files
-*.apk
-*.ap_
-
-# Java class files
-*.class
-
-# generated files
-bin/
-gen/
-
-# Local configuration file (sdk path, etc)
-local.properties
+# Temp files
+*.swp
 
 # Windows thumbnail db
 Thumbs.db
@@ -22,7 +11,4 @@ Thumbs.db
 *.iml
 .idea
 .gradle
-build/
-
-*ASUS_PC_01*
 
