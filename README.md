@@ -23,5 +23,5 @@ Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and 
 0. [How to Update this Page](howtos/howto_contribute.md)
 
 ## Outreach
-* --------
+* ``[coming soon]``
 
