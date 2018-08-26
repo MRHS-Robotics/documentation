@@ -10,7 +10,7 @@ It's actually pretty easy, and doesn't require any previous experience with web 
 that you install some tools on your computer, and have a willingness to learn "markdown" which is a kind of 
 text formatting shorthand.  If you've ever updated a wiki page, it should look pretty familiar to you.
 
-In this howto, we will be using a terminal window to enter some text commands into a "bash" shell.  All of the 
+In this HOWTO, we will be using a terminal window to enter some text commands into a "bash" shell.  All of the 
 commands you need are provided explicitly, so you don't need to know or learn bash.  But, you may find it interesting
  to know why we are using the commands we are, and what other commands are available.  If so, have a look at this 
  [bash cheatsheet](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html).
