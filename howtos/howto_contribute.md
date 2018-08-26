@@ -29,26 +29,31 @@ To update the MRHS Robotics site you will first need a copy of the source files.
 the GitHub repository to your own computer.  Follow these steps to clone the repository.
 
 1. Open a command-line window:
+
     * linux: open terminal 
     * mac: ```⌘-space```, type "terminal", then press ``enter``
     * pc: open the "bash shell" that came with your git install
   
 2. Change to your Desktop folder/directory
+
     ```
     cd ~/Desktop
     ```
 
 3. Use git to clone the repository to your computer
+
    ```
    git clone git@github.com:MRHS-Robotics/mrhs-robotics.git 
    ```
    
 4. Change to the newly created ``mrhs-robotics`` folder/directory
+
    ```
    cd mrhs-robotics
    ```
    
-5. Verify the clone worked by listing the contents of ``mrhs-robotics``
+5. Verify the clone worked by listing the contents of ``mrhs-robotics``\
+
    ```
    ls -1
    ```
