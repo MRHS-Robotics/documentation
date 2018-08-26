@@ -3,7 +3,11 @@
 The 2018-2019 FTC game theme is "Rover Ruckus" and official game rules and instructions are available from the FTC
 website.  Here are some useful links to quickly find what you're looking for.
 
-[![Rover Ruckus](<img src="../images/FIRST-RoverRuckus-350.png" alt="Team 4284" height="200">)](https://youtu.be/EdhFVOQlbrk)
+[![Rover Ruckus](
+
+<a href="https://youtu.be/EdhFVOQlbrk">
+    <img src="../images/FIRST-RoverRuckus-350.png" alt="Team 4284" height="200"/>
+</a>
 
 * [Main Game Page](https://www.firstinspires.org/robotics/ftc/game-and-season)
 * [Game Manual, Part
