@@ -101,7 +101,9 @@ your changes back up to the GitHub repository.  That's the next step.
 
 ## Pushing Updates to GitHub
 
-After making changes to the local markdown files you will need to effectively do the following:
+After making changes to the local markdown files you will need to have your changes copied back up to the GitHub
+repository before they will be visible on the web.  The act of copying, or "pushing", your changes to GitHub involves the
+following steps: 
 
 1. Add the updates to your locally staged git index
 2. Commit the staged updates to the local git repository (your clone)
