@@ -6,6 +6,7 @@ Want to know more about FTC?  Check out [this video](https://youtu.be/TLEvZgHWnr
 
 ## Our Team
 
+This 2018-2019 season will be Team Butterfly Effect's 3rd year of working together, and we couldnt be more excited. This year we plan to spend more time on design of the robot and, consequently, teaching members the basics of 3D modeling.
 <img src="images/4284_connect_award.jpg" alt="Team 4284" height="200">
 
 Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and a team member will reach out to you.
