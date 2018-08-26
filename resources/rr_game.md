@@ -7,7 +7,7 @@ website.  Here are some useful links to quickly find what you're looking for.
 <a href="https://youtu.be/EdhFVOQlbrk">
     <img src="../images/FIRST-RoverRuckus-350.png" alt="Team 4284" align="center"/>
 <br/>
-Click to view Rover Ruckus teaseri video!
+Click to view Rover Ruckus teaser video!
 </a>
 </center>
 
