@@ -173,15 +173,5 @@ This is usually pretty easy to resolve.  When confronted with this error, try th
    If this results in an error indicating a "merge conflict", this means that you are making changes in the same place
 in the same file to which someone else has also been making changes.  To resolve a merge conflict have a look at [this
 help page](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/) or talk to a team leader
-for help, before moving on to the next step.
-
-3. Then attempt to add, commit, and push your updates all in a single line.
-
-   ```
-   git add . ; git commit -m "update site documentation" ; git push origin master 
-   ```
-      
-   In the command above, it is also good to change the part in quotes to more specifically describe the changes you 
-   are making.  
-   
+for help, before attempting to push your own local changes to the GitHub repository.
 
