@@ -112,12 +112,8 @@ we're trying to do here, so we will provide a somewhat cryptic command that you 
 and not worry about the details today.  We assume here that you've closed the terminal window you used to clone the
 repository originally, if not then go ahead and skip steps 1 and 2 below.
 
-1. Open a terminal window and/or bash shell:
+1. Open a terminal window and/or bash shell
 
-    * linux: open terminal 
-    * mac: ```⌘-space```, type "terminal", then press ``enter``
-    * pc: open the "bash shell" that came with your git install
-  
 2. Change to your ``mrhs-robotics`` folder/directory
 
     ```
@@ -143,3 +139,49 @@ repository originally, if not then go ahead and skip steps 1 and 2 below.
 review, etc.  At times like this, you probably want to just keep your terminal window open, so you only need to repeat
 step 3 (above) to push updates.  Also, to avoid having to type in, or copy, that long command line, just use the
 ``up-arrow`` key to scroll back through your history to your previous use of the command, and press ``enter``.
+
+## Pulling Updates from GitHub
+
+Over time, and perhaps frequently when two team members are updating the site at the same time, you will find that the
+steps for pushing updates to github fail with an obscure error like the following:
+
+```
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:MRHS-Robotics/mrhs-robotics.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+```
+This is usually pretty easy to resolve.  When confronted with this error, try the following:
+
+1. Open a terminal window and/or bash shell
+
+2. Change to your ``mrhs-robotics`` folder/directory
+
+    ```
+    cd ~/Desktop/mrhs-robotics
+    ```
+
+3. Pull updates from the GitHub repository to your local clone repository
+
+   ```
+   git pull upstream master
+   ```
+
+   If this results in an error indicating a "merge conflict", this means that you are making changes in the same place
+in the same file to which someone else has also been making changes.  To resolve a merge conflict have a look at [this
+help page](https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/) or talk to a team leader
+for help, before moving on to the next step.
+
+3. Then attempt to add, commit, and push your updates all in a single line.
+
+   ```
+   git add . ; git commit -m "update site documentation" ; git push origin master 
+   ```
+      
+   In the command above, it is also good to change the part in quotes to more specifically describe the changes you 
+   are making.  
+   
+
