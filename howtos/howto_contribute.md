@@ -111,8 +111,10 @@ following steps:
 
 That all probably sounds confusing.  There are reasons for this complexity, but they really aren't important to what
 we're trying to do here, so we will provide a somewhat cryptic command that you can use to do all three steps at once,
-and not worry about the details today.  We assume here that you've closed the terminal window you used to clone the
-repository originally, if not then go ahead and skip steps 1 and 2 below.
+and not worry about the details today.  
+
+We assume here that you've closed the terminal window that you used to clone the repository originally.  If not then go
+ahead and skip to step 3, where we provide the command line you want to use for pushing your updates to GitHub.
 
 1. Open a terminal window and/or bash shell
 
