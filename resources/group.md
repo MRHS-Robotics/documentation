@@ -1,6 +1,7 @@
 # MRHS Robotics Group
 
 <iframe id="forum_embed"
+  allowtransparency="true"
   src="javascript:void(0)"
   scrolling="no"
   frameborder="0"
