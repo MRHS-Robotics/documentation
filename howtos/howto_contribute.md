@@ -80,4 +80,4 @@ plain text along with subtle indications as to how that text should be rendered 
 putting a ``#`` at the beginning of a line, followed by some text, will result in that text being displayed as a 
 section header in your browser.  
 
-<img src="../images/4284_connect_award.jpg" alt="markdown source" height="200">
+<img src="../images/markdown_source.png" alt="markdown source" height="200">
