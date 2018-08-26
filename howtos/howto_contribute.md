@@ -11,9 +11,9 @@ that you install some tools on your computer, and have a willingness to learn "m
 text formatting shorthand.  If you've ever updated a wiki page, it should look pretty familiar to you.
 
 In this HOWTO, we will be using a terminal window to enter some text commands into a "bash" shell.  All of the 
-commands you need are provided explicitly, so you don't need to know or learn bash.  But, you may find it interesting
- to know why we are using the commands we are, and what other commands are available.  If so, have a look at this 
- [bash cheatsheet](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html).
+commands you need are provided here explicitly, so you don't need to know or learn bash.  But, you may find it 
+interesting to know why we are using the commands we are, and what other commands are available.  If so, have a look 
+at this [bash cheatsheet](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html).
 
 ## Before You Begin
 
