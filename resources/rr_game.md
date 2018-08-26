@@ -13,4 +13,5 @@ website.  Here are some useful links to quickly find what you're looking for.
 * [Game Manual, Part
   1](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/2018-2019/game-manual-part-1.pdf)
 * Game Manual, Part 2 ``[coming soon]``
+* [Resources Library](https://www.firstinspires.org/resource-library/ftc/team-management-resources)
 
