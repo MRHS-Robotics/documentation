@@ -1,7 +1,7 @@
 # How to Contribute
 
 This site is hosted in GitHub Pages and redirected from our team 
-domain at [http://mrhsrobotics.com](https://mrhsrobotics.com).  The source material for this site is managed in our 
+domain at [http://mrhsrobotics.com](http://mrhsrobotics.com).  The source material for this site is managed in our 
 [GitHub repository](https://github.com/MRHS-Robotics/mrhs-robotics).   
 
 So how do team members update this site?  
