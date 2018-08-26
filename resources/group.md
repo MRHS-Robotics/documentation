@@ -1,4 +1,4 @@
-# MRHS Robotics Group
+# MRHS Robotics Group Communications
 
 Want to engage with the team more interactively over live chat?  
 Join our team Slack workspace at
