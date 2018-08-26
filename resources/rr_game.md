@@ -15,7 +15,6 @@ Click to view Rover Ruckus teaser video!
 * [Game Manual, Part
   1](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/2018-2019/game-manual-part-1.pdf)
 * Game Manual, Part 2 ``[coming soon]``
-* [Engineering Notebook
-* Guidelines](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/engineering-notebook-guidelines.pdf)
+* [Engineering Notebook Guidelines](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/engineering-notebook-guidelines.pdf)
 * [Resources Library](https://www.firstinspires.org/resource-library/ftc/team-management-resources)
 
