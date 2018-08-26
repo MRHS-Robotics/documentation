@@ -8,7 +8,7 @@ Want to know more about FTC?  Check out [this video](https://youtu.be/TLEvZgHWnr
 
 <img src="images/4284_connect_award.jpg" alt="Team 4284" height="200">
 
-Want to join us?  Just email the group at mrhs-robotics-team@@googlegroups.com and a team member will reach out to you.
+Want to join us?  Just email us at <mrhs-robotics-team@@googlegroups.com> and a team member will reach out to you.
 
 ## Team Resources
 
