@@ -1,7 +1,5 @@
 # How to Contribute
 
-[TOC]
-
 This site is hosted in GitHub Pages and redirected from our team 
 domain at [http://mrhsrobotics.com](http://mrhsrobotics.com).  The source material for this site is managed in our 
 [GitHub repository](https://github.com/MRHS-Robotics/mrhs-robotics).   
@@ -68,3 +66,18 @@ the GitHub repository to your own computer.  Follow these steps to clone the rep
    ```
    Yay, it worked!
    
+## Make Changes to Local Files
+
+Now that you have cloned the repository, you have local copies of all the text files that serve as source material 
+for the MRHS Robotics site.  For example, if you look in the ``mrhs-robotics`` folder on your desktop, you will see a
+file named ``README.md``.  This is a text file that contains the content of the site's main page.  Open it with a 
+text editor and have a look.  At the same time, try also opening the [main page](http://mrhsrobotics.com) in your 
+browser, and observe the relationship between how the text is represented in the ``README.md`` and how it eventually
+ends up looking in the browser.
+  
+What you are looking at in the ``README.md`` file is called "markdown".  This is a simple shorthand for entering 
+plain text along with subtle indications as to how that text should be rendered in the browser.  As you can see, 
+putting a ``#`` at the beginning of a line, followed by some text, will result in that text being displayed as a 
+section header in your browser.  
+
+<img src="../images/4284_connect_award.jpg" alt="markdown source" height="200">
