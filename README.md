@@ -14,7 +14,7 @@ Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and 
 ## Team Resources
 
 * [Calendar (2018-2019)](resources/calendar.md)
-* [Google Group](resources/group.md)
+* [Group Discussion Forum](resources/group.md)
 * [Photo Album](resources/photos.md)
 
 ## HOWTOs
