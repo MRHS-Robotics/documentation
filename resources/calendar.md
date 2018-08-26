@@ -2,8 +2,11 @@
 
 ## Important Dates
 
-|| Date || Event ||
-| 9/8 | Kickoff! (hosted by MRHS) |
+  Date | Event 
+-------|--------
+  8/27 | First Meeting
+-------|--------
+   9/8 | "Rover Ruckus" Kickoff! (hosted by MRHS) 
 
 ## Team Calendar
 
