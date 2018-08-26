@@ -2,6 +2,7 @@
 
 <iframe id="forum_embed"
   allowtransparency="true"
+  style="background: #FFFFFF;"
   src="javascript:void(0)"
   scrolling="no"
   frameborder="0"
