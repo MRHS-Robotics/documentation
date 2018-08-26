@@ -11,6 +11,7 @@ Want to know more about FTC?  Check out [this video](https://youtu.be/TLEvZgHWnr
 ## Team Resources
 
 * [Calendar (2018-2019)](resources/calendar.md)
+* [Google Group](resources/group.md)
 
 ## HOWTOs
 
