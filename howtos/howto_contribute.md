@@ -167,7 +167,7 @@ This is usually pretty easy to resolve.  When confronted with this error, try th
 3. Pull updates from the GitHub repository to your local clone repository
 
    ```
-   git pull upstream master
+   git pull origin master
    ```
 
    If this results in an error indicating a "merge conflict", this means that you are making changes in the same place
