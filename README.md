@@ -6,7 +6,7 @@ Want to know more about FTC?  Check out [this video](https://youtu.be/TLEvZgHWnr
 
 ## Our Teams
 
-<img src="images/4284_connect_award.jpg" alt="Team 4284" height="200">
+<img src="images/team_photo.jpg" alt="Team 4284" height="200">
 
 ### [The Butterfly Effect (4284)](teams/4284.md)
 
