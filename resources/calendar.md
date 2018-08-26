@@ -1,4 +1,4 @@
-# 2018-2019 Season Calendar
+# 2018-2019 Season 
 
 ## Important Dates
 
