@@ -77,11 +77,11 @@ ends up looking in the browser.
 
 In the ``README.md``, you should see plain text like this:
 
-<img src="../images/markdown_source.png" alt="markdown source" align="center" height="100">
+<img src="../images/markdown_source.png" alt="markdown source" class="center" height="100">
 
 In the browser, you should see that same text content, but rendered according to the site themes:
 
-<img src="../images/markdown_rendered.png" alt="markdown source" align="center" height="100">
+<img src="../images/markdown_rendered.png" alt="markdown source" class="center" height="100">
 
 What you are looking at in the ``README.md`` file is called "markdown".  This is a simple shorthand for entering 
 plain text along with subtle indications as to how that text should be rendered in the browser.  As you can see, 
