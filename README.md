@@ -19,7 +19,7 @@ Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and 
 * ["Rover Ruckus" Game (2018-2019)](resources/rr_game.md)
 * [Calendar (2018-2019)](resources/calendar.md)
 * [Group Communications](resources/group.md)
-* [Attendance](resources/group.md) (access controlled)
+* [Attendance](resources/attendance.md) (access controlled)
 * [Photo Album](resources/photos.md)
 
 ## HOWTOs
