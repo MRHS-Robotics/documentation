@@ -1,6 +1,6 @@
 # MRHS Robotics Attendance
 
-Attendance information is private and available to current team members only.
+Attendance information is **private** and available to current **team members only**.
 
 If you are a team member, follow this link to the [live attendance
 sheet](https://docs.google.com/spreadsheets/d/1aUkaDXOZzZHVIWwtO02h-58JVxxfR2kN3xgKCpzOhx8/edit?usp=sharing).
