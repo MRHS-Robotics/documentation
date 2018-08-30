@@ -20,6 +20,7 @@ Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and 
 * [Calendar (2018-2019)](resources/calendar.md)
 * [Group Communications](resources/group.md)
 * [Attendance](resources/attendance.md) (access controlled)
+* [Parts Requests](resources/parts.md) 
 * [Photo Album](resources/photos.md)
 
 ## HOWTOs
