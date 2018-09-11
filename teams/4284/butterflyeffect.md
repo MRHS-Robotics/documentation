@@ -12,5 +12,5 @@ This is our 3rd year competeing as The Butterfly Effect, and we are excited to s
 
 ## Daily Logs 
 
-* ### [9/8/18 - Kickoff](teams/4284/dailylogs/sep8.md)
-* ### [9/10/18 - First Meeting](teams/4284/dailylogs/sep10.md)
+* ### [9/8/18 - Kickoff](dailylogs/sep8.md)
+* ### [9/10/18 - First Meeting](dailylogs/sep10.md)
