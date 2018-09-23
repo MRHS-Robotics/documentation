@@ -8,9 +8,9 @@ Want to know more about FTC?  Check out [this video](https://youtu.be/TLEvZgHWnr
 
 <img src="images/team_photo.jpg" alt="Team 4284" height="200">
 
-### [The Butterfly Effect (4284)](teams/4284.md)
+### [The Butterfly Effect (4284)](teams/4284/butterflyeffect.md)
 
-### [TBD (7795)](teams/7795.md)
+### [TBD (7795)](teams/7795/7795.md)
 
 Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and a team member will reach out to you.
 

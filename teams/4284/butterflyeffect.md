@@ -9,3 +9,8 @@ The [Butterfly Effect](https://www.youtube.com/watch?v=Hp8wGQW-Y48) coined by [E
 This is our 3rd year competeing as The Butterfly Effect, and we are excited to see what new ideas we see in the upcoming 2018-2019 season! Our team is composed of many diverse perspectives, and through collaboration, we enhanced our ability to achieve our goals efficiently by listening and considering eachother's ideas equally. We are dedicated to our team and our community, and we can't wait for kickoff!
 
 <img src="../images/Teampicture2.jpg">
+
+## Daily Logs 
+
+* ### [9/8/18 - Kickoff](dailylogs/sep8.md)
+* ### [9/10/18 - First Meeting](dailylogs/sep10.md)
