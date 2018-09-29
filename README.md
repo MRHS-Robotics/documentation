@@ -22,6 +22,7 @@ Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and 
 * [Attendance](resources/attendance.md) (access controlled)
 * [Parts Requests](resources/parts.md) 
 * [Photo Album](resources/photos.md)
+* [Repositories](https://github.com/MRHS-robotics) 
 
 ## HOWTOs
 
@@ -29,4 +30,3 @@ Want to join?  Just [email us](mailto:mrhs-robotics-team@@googlegroups.com) and 
 
 ## Outreach
 * ``[coming soon]``
-
