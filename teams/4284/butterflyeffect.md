@@ -10,7 +10,10 @@ This is our 3rd year competeing as The Butterfly Effect, and we are excited to s
 
 <img src="../images/Teampicture2.jpg">
 
-## Daily Logs 
+## Prototypes
+* ### [Tape Measure Bracket](prototypes/tapeMeasure)
+
+## Logs 
 
 * ### [9/8/18 - Kickoff](dailylogs/sep8.md)
 * ### [9/10/18 - First Meeting](dailylogs/sep10.md)
