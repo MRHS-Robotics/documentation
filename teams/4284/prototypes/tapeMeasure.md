@@ -34,6 +34,6 @@ Tape Measure Bracket Prototype
 
 #### Requirements
 * ##### Axel(s) 
-* ##### A motor or servo
+* ##### A motor or servo (not too heavy)
 
 ##
